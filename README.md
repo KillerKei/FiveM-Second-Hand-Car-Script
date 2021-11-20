@@ -7,6 +7,6 @@ Please do not try and flag this off as your own. To use this it MUST be called '
 If you have some type of polyzone script you can simply drag and drop this into your server and edit it from irp-polyzone:enter to your trigger. You MUST be change all exports to work for your server, and of course make sure you change any notifications to your notification system. I will offer support for this, but if I cannot help you or do not have time, I apologise. To open the core menu, you must have some type of context menu script.
 
 
-This was all coded on stream, you can follow my twitch at: https://www.twitch.tv/keironplayz_
+This was all coded on stream, you can follow my twitch at: `twitch.tv/keironplayz_`
 
 Server Discord: https://discord.gg/infinite-rp
